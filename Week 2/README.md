@@ -1,4 +1,4 @@
-﻿Assignment 2		Due Date 23/06/2023
+![image](https://github.com/SyedT1/Data-Mining-CSC417/assets/65404810/7aa8ec9b-4fe2-43e6-a59c-0ba89e0634ea)﻿Assignment 2		Due Date 23/06/2023
 
 **Python/Numpy basics**
 
@@ -34,19 +34,3 @@ Write a script to answer the following questions.
 **Analytical Problem:**
 
 
-**Show that** 
-
-`          `**=** 
-
-
-
-	
-
-
-
-`	`=  
-
-
-<a name="_heading=h.gjdgxs"></a>Where  …..</sub>                are centered attribute vectors. N.B You should use pen and paper 
-
-to show the LHS = RHS for a and b here. Use vector notations shown in class. Take the image, make pdf and submit with your ipynb file.

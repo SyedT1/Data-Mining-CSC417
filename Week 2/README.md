@@ -1,4 +1,4 @@
-![image](https://github.com/SyedT1/Data-Mining-CSC417/assets/65404810/7aa8ec9b-4fe2-43e6-a59c-0ba89e0634ea)﻿Assignment 2		Due Date 23/06/2023
+Assignment 2		Due Date 23/06/2023
 
 **Python/Numpy basics**
 
@@ -30,7 +30,5 @@ Write a script to answer the following questions.
 1. Compute the sample covariance matrix as inner products between the columns of the centered data matrix (see **Eq. (2.38)** in chapter 2).
 1. Compute the sample covariance matrix as outer product between the centered data points (see **Eq. (2.39)** in chapter 2)
 1. Compute the correlation between Attributes 1 and 2 by computing the cosine of the angle between the centered attribute vectors. Use vector notations shown in class. Plot the scatter plot between these two attributes.
-
-**Analytical Problem:**
-
+![image](https://github.com/SyedT1/Data-Mining-CSC417/assets/65404810/7aa8ec9b-4fe2-43e6-a59c-0ba89e0634ea)﻿
 

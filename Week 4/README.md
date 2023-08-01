@@ -22,3 +22,7 @@
           + Purity
           + Rand Index
   7. Plot the 3D plots for the randomly chosen 1000 data from the MNIST using the tsne. Use different colors for the points that are assigned to different clusters. Also plot the centroids in bigger markers.
+
+
+**Text clustering: Reddit comments dataset**
+a. Download Reddit comments: This data set (reddit_data.csv only) can be downloaded from [here](https://data.mendeley.com/datasets/85njyhj45m/1) and contains 39, 999 parent comments from May 2015 out of 5 subreddit pages. Since 1, 753 text entries are duplicates, only 38, 245 entries

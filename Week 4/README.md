@@ -25,4 +25,4 @@
 
 
 **Text clustering: Reddit comments dataset**
-a. Download Reddit comments: This data set (reddit_data.csv only) can be downloaded from [here](https://data.mendeley.com/datasets/85njyhj45m/1) and contains 39, 999 parent comments from May 2015 out of 5 subreddit pages. Since 1, 753 text entries are duplicates, only 38, 245 entries
+a. Download Reddit comments: This data set (reddit_data.csv only) can be downloaded from [**here**](https://data.mendeley.com/datasets/85njyhj45m/1) and contains 39, 999 parent comments from May 2015 out of 5 subreddit pages. Since 1, 753 text entries are duplicates, only 38, 245 entries

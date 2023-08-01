@@ -14,3 +14,10 @@
   5. You are asked to apply the k-means algorithm to this set of N = 50000 vectors, with k = 10 groups, and starting from a random initial group assignment
   
   6. Calculate the quality of the final clusters using following criteria
+     + Internal Validation
+          + Davies–Bouldin index
+          + Dunn index
+     + External Validation
+          + Purity
+          + Rand Index
+  7. Plot the 3D plots for the randomly chosen 1000 data from the MNIST using the tsne. Use different colors for the points that are assigned to different clusters. Also plot the centroids in bigger markers.

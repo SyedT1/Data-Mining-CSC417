@@ -2,7 +2,7 @@
 
 **Kmeans clustering**
 
-Download  [dataset](https://iubedubd-my.sharepoint.com/:u:/g/personal/akmmrahman_iub_edu_bd/EbJtzPTvamRItr8t-O0_pNMBgC60rBh008qyNc-bAx_-Zg?e=qytqK7) from here. Use iris.dat for your data file. 
+Download  [dataset](https://raw.githubusercontent.com/SyedT1/Data-Mining-CSC417/main/Week%203/iris.data) from here. Use iris.dat for your data file. 
 
 Task: **TODO**
 

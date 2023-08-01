@@ -16,6 +16,12 @@
   6. Calculate the quality of the final clusters using following criteria
      + Internal Validation
           + Davies–Bouldin index
+          + $$
+              \begin{align}
+              \tag{1.1}
+                V_{sphere} = \frac{4}{3}\pi r^3
+              \end{align}
+            $$
           + Dunn index
      + External Validation
           + Purity

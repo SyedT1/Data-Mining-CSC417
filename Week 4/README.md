@@ -15,8 +15,8 @@
   
   6. Calculate the quality of the final clusters using following criteria
      + Internal Validation
-          + Davies–Bouldin index
           + $$J=\frac{1}{N} \sum_{i=1}^N \min _{j=1, \ldots, k}\left\|x_i-z_j\right\|^2$$
+          + Davies–Bouldin index
           + Dunn index
      + External Validation
           + Purity

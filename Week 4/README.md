@@ -27,18 +27,18 @@
 **Text clustering: Reddit comments dataset**
 1. Download Reddit comments: This data set (reddit_data.csv only) can be downloaded from [**here**](https://data.mendeley.com/datasets/85njyhj45m/1) and contains 39, 999 parent comments from May 2015 out of 5 subreddit pages. Since 1, 753 text entries are duplicates, only 38, 245 entries are used for further processing. The file includes the following information: 1. parent_id 2. text 3. topic 4. length 5. For this assignment, only the question and the topic information would be extracted. We use the text for clustering.
 2. Now use following procedures to calculate feature vectors for the text associated with each reddit comments
-   a. Use the tokenizer to extract all words
-   b. Use stemming.
-   c. Normalize the words
-   d. Discard stop words.
-   e. Use Zipf’s law to discard most frequent and least frequent words
-   f. Build the final vocabulary/term list
-   g. Calculate TF matrix for all comments/documents. (You can’t use library functions)
-   h. Calculate normalized TF matrix (You can’t use library functions)
-   i. Calculate IDF for all terms (You can’t use library functions)
-   j. Calculate final weighted matrix for all documents. (You can’t use library functions)
-   k. Now use the rows as feature vectors for corresponding documents. Now add the category of the document in the first feature index. We will use it only to identify the text after clustering. We don’t use this information for clustering. We will use this information for external validation
-   l. Use K-mean clustering with the feature vectors to cluster the 38, 245 documents into 5 categories.
+   + Use the tokenizer to extract all words
+   + Use stemming.
+   + Normalize the words
+   + Discard stop words.
+   + Use Zipf’s law to discard most frequent and least frequent words
+   + Build the final vocabulary/term list
+   + Calculate TF matrix for all comments/documents. (You can’t use library functions)
+   + Calculate normalized TF matrix (You can’t use library functions)
+   + Calculate IDF for all terms (You can’t use library functions)
+   + Calculate final weighted matrix for all documents. (You can’t use library functions)
+   + Now use the rows as feature vectors for corresponding documents. Now add the category of the document in the first feature index. We will use it only to identify the text after clustering. We don’t use this information for clustering. We will use this information for external validation
+   + Use K-mean clustering with the feature vectors to cluster the 38, 245 documents into 5 categories.
 3. Calculate the quality of the final clusters using following criteria (You can’t use library functions)
      + Internal Validation
           + $$J=\frac{1}{N} \sum_{i=1}^N \min _{j=1, \ldots, k}\left\|x_i-z_j\right\|^2$$

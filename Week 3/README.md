@@ -7,7 +7,7 @@ Download  [dataset](https://raw.githubusercontent.com/SyedT1/Data-Mining-CSC417/
 Task: **TODO**
 
 1. You have to  implement K-means  clustering algorithm with the iris data with 3 dimensions.
-1. A sample [implementation file](https://iubedubd-my.sharepoint.com/:u:/g/personal/akmmrahman_iub_edu_bd/EXaEzfDaS25PpRUem-StwxYBVp8UyU171ZVDSW6lgASD_g?e=pS8ZrZ) is provided. Please download it. You can use notebook to complete the **TODOs**. The implementation file is actually a skeleton or pseudocodes. You need to fill up your code blocks where asked. Numpy array has been used to store the datapoints, centroids, indices in this skeleton. 
+1. A sample [implementation file](https://github.com/SyedT1/Data-Mining-CSC417/blob/main/Week%203/KMeansAssignment.ipynb) is provided. Please download it. You can use notebook to complete the **TODOs**. The implementation file is actually a skeleton or pseudocodes. You need to fill up your code blocks where asked. Numpy array has been used to store the datapoints, centroids, indices in this skeleton. 
 1. At first, data are loaded. You can use the load function or panda function to load numerical data in numpy matrix. Use K = 3
 1. Use initialize\_centroids\_simple() to initialize your centroids. This is the simple assignment function you need to implement. Randomly select **K points** from the sampled data and assign them as initialized centroids.
 1. Then, in the kmeans function, 
